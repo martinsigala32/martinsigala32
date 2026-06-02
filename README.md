@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/martin-sigala-b56177239">Martin Sigala</a>'s IT and Cybersecurity Project Portfolio 🔐
+# [Martin Sigala](https://www.linkedin.com/in/martin-sigala-b56177239)'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I've put into enhancing security operations and processes!
 
@@ -11,12 +11,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-<hr/>
+---
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="Martin Sigala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br/>
-
-[linkedin]: https://www.linkedin.com/in/martin-sigala-b56177239/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin%20Sigala-blue?logo=linkedin)](https://www.linkedin.com/in/martin-sigala-b56177239/)
